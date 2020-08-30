@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Ìṣirò</string>
+    <string name="number_one">1\nọ̀kan</string>
+    <string name="number_zero">0\nòdo</string>
+    <string name="number_two">2\nèjì</string>
+    <string name="equals">=\njẹ́</string>
+    <string name="number_three">3\nẹ̀ta</string>
+    <string name="number_four">4\nẹ̀rin</string>
+    <string name="number_five">5\nàrún</string>
+    <string name="number_six">6\nẹ̀fà</string>
+    <string name="number_seven">7\nèje</string>
+    <string name="number_eight">8\nẹ̀jọ</string>
+    <string name="number_nine">9\nẹ̀sán</string>
+    <string name="clear">parẹ́</string>
+    <string name="divide">÷\npin</string>
+    <string name="multiply">X\nọ̀nà</string>
+    <string name="minus">−\ndín</string>
+    <string name="plus">+\npẹ̀lú</string>
+    <string name="ten">10\nẹ̀wá</string>
+    <string name="twenty">20\nogún</string>
+    <string name="thirty">30\nọgbọ̀n</string>
+    <string name="forty">40\nogójì</string>
+    <string name="fifty">50\nàádọ́ta</string>
+    <string name="sixty">60\nọgọ́ta</string>
+    <string name="seventy">70\nàádọ́rin</string>
+    <string name="eighty">80\nọgọ́rin</string>
+    <string name="ninety">90\nàádọ́rùn</string>
+    <string name="one_hundred">100\nọgọ́rùn</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="siro">Ṣirò</string>
+    <string name="ohun">Ohùn</string>
+    <string name="aworan">Àwòrán</string>
+    <string name="iranwo">Ìrànwọ́</string>
+    <string name="jade">Jáde</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

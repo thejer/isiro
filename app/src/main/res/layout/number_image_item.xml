@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/number_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/chelsea_market"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="23: Marunlelogoji" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/number_text"
+        android:id="@+id/line1">
+        <ImageView
+            android:id="@+id/image1"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image2"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image3"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image4"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image5"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/line1"
+        android:id="@+id/line2">
+
+        <ImageView
+            android:id="@+id/image6"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image7"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image8"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image9"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+
+        <ImageView
+            android:id="@+id/image10"
+            tools:src="@drawable/ten"
+            style="@style/image_style" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

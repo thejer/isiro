@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_calculator"
+            android:icon="@drawable/ic_dialpad"
+            android:title="@string/siro" />
+        <item
+            android:id="@+id/nav_sound"
+            android:icon="@drawable/ic_mic"
+            android:title="@string/ohun"/>
+        <item
+            android:id="@+id/nav_visuals"
+            android:icon="@drawable/ic_image"
+            android:title="@string/aworan"/>
+    </group>
+
+    <item android:title="">
+        <menu>
+<!--            <item-->
+<!--                android:id="@+id/nav_help"-->
+<!--                android:icon="@drawable/ic_help"-->
+<!--                android:title="@string/iranwo" />-->
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/jade" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#77c670</color>
+    <color name="colorPrimaryDark">#51884D</color>
+    <color name="colorAccent">#faba46</color>
+    <color name="operators_bg">#467483</color>
+    <color name="equals_color">#1E6F1E</color>
+    <color name="results_background">#2c4350</color>
+    <color name="buttons_background">#e0ebef</color>
+    <color name="operators_background">#24224c</color>
+    <color name="result_color">#FFFFFF</color>
+    <color name="clear_color">#E65100</color>
+    <color name="white">#ffffff</color>
+</resources>
