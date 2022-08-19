@@ -1,3 +1,0 @@
-ISIRO_KEY_STORE.jks
-password = ISR123
-alias = key0
